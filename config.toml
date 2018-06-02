@@ -1,0 +1,6 @@
+baseURL = "https://afreach.github.io/psalms/"
+languageCode = "en-us"
+title = "아프리치팀의 시편읽기"
+
+[params]
+  mainIcon = "/img/narrative-794978_1280.jpg"
